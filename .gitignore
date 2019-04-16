@@ -72,4 +72,5 @@ node_modules/
 node_tmp/
 npm-debug.log.*
 out/
+package-lock.json
 tmp/
