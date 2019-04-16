@@ -1,0 +1,44 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.example.jhipster"
+    },
+    "jhipsterVersion": "5.8.2",
+    "applicationType": "monolith",
+    "baseName": "example",
+    "packageName": "com.example.jhipster",
+    "packageFolder": "com/example/jhipster",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NDQzZDY2ZjJmY2U3MTkxODNmODU1Zjk3OTQ4ZjQ2YzIxZWFhYWQ3YTA5Mzc5OWJmMWY5MjZmZjA3YmRkOTBkNjIxZTVlYzk5MGM5MjZlYjgxZDZmZWMyNmY5OTQyNGI1MGJjZTA5N2RlMmJlMGJiMmI1MWY1MGYyMzU2ZGU0MDY=",
+    "clientFramework": "react",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [
+      {
+        "name": "generator-jhipster-swagger-cli",
+        "version": "3.0.1"
+      },
+      {
+        "name": "generator-jhipster-spring-cloud-stream",
+        "version": "1.0.0"
+      }
+    ],
+    "enableTranslation": false
+  }
+}
