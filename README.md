@@ -30,6 +30,8 @@ yo jhipster
 npm start
 ```
 
+This command will create `target/www` folder and generate target files into this folder according `webpack/webpack.*.js`.
+
 ## Run your Spring Boot application
 
 ```bash
